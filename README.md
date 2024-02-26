@@ -1,2 +1,2 @@
 
-![Иллюстрация к проекту](images/result.png)
+![Иллюстрация к проекту](images/result.bmp)
